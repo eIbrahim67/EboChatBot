@@ -1,4 +1,6 @@
-# EboChatBotV1
+# Ebo ChatBot API
+
+![EBO Chatbot](https://github.com/eIbrahim67/EboChatBot/blob/main/ebo.jpg)
 
 EboChatBotV1 is a Flask-based conversational AI application designed as a property search assistant. It leverages the Ollama language model and Chroma vector store for session-based conversational memory, enabling natural and context-aware interactions. The application is built with modularity, security, and scalability in mind, using modern Python practices and libraries like Pydantic, LangChain, and Flask-Talisman.
 
